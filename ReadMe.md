@@ -1,6 +1,6 @@
 Installation guide：
 
-1.Firstly creative an Mac OS Install USB Disk with 200MB EFI space, and also on your bootable hard drive.
+1.Firstly creative a Mac OS Install USB Disk with 200MB EFI space, and also on your bootable hard drive.
 
 2.Copy the EFI files which tag as Install EFI to your USB disk EFI pattern 
 
