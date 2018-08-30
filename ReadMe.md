@@ -10,14 +10,14 @@ Installation guide
 
 Known problem:
 QCA61x4A Wifi and Bluetooth not work(I use android phone to share the network to solve that problem)
-Brightness control can only be used in "Setting-Monitor"
+Brightness can only be adjust in "Setting->Monitor"
 No voice when you use headset.
 Camera could not be able to recognize.
 
 Not test:
 SD Card Solt
-Some other function I still do not know.
+Some other functions I still do not know.
 
-If you have further info or make to much more complete,hoping for your issue.
+If you have further info or want to make it much more complete,hoping for your issue.
 
 Thanks for @daliansky and Tonymacx86.
